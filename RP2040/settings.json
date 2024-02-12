@@ -1,0 +1,4 @@
+{
+    "cortex-debug.openocdPath": "/Users/yusuke/Documents/RP2040/openocd/src/openocd",
+    "cortex-debug.gdbPath": "/Applications/ARM/bin"
+}

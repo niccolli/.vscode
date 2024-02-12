@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "RP2040",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/yusuke/Documents/RP2040/pico-sdk/**"
+            ],
+            "defines": [],
+            "compilerPath": "/Applications/ARM/bin/arm-none-eabi-gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        },
+        {
+            "name": "CMake",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/yusuke/Documents/RP2040/pico-sdk/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/bin/cmake",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
